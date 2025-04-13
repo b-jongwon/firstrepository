@@ -21,6 +21,9 @@
     <ClCompile Include="D:\다운로드 파일\ds01_백종원.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="malloc예시 파일.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="in1-1.txt">
