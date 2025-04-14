@@ -1,2 +1,5 @@
-﻿  챕터1.c
-  자료구조 시험공부.vcxproj -> C:\Users\백종원\source\repos\자료구조 시험공부\x64\Debug\자료구조 시험공부.exe
+﻿  과제 2 피보나치 구현.c
+C:\Users\백종원\source\repos\firstrepository\과제 2 피보나치 구현.c(13,2): warning C4098: 'Iterative': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\백종원\source\repos\firstrepository\과제 2 피보나치 구현.c(31,13): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\백종원\source\repos\firstrepository\과제 2 피보나치 구현.c(31,7): warning C4312: '형식 캐스트': 'int'에서 더 큰 'int *'(으)로의 변환입니다.
+  자료구조 시험공부.vcxproj -> C:\Users\백종원\Source\Repos\firstrepository\x64\Debug\자료구조 시험공부.exe

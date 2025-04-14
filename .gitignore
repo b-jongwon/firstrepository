@@ -1,0 +1,35 @@
+# Visual Studio 관련 파일 무시
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+
+# 빌드 결과물 무시
+*.obj
+*.exe
+*.pdb
+*.dll
+*.lib
+*.app
+*.ipch
+
+# 백업/임시파일 무시
+*.log
+*.tmp
+*.bak
+*.cache
+
+# 사용자 설정 파일 무시
+*.psess
+*.vsp
+*.vspx
+
+# 기타 불필요한 파일
+*.db
+*.tlog
+*.lastbuildstate
+*.vssscc
+*.vsscc
