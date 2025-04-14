@@ -15,13 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="챕터1.c">
+    <ClCompile Include="malloc으로 하는 1강.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="D:\다운로드 파일\ds01_백종원.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="malloc예시 파일.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="과제 2 피보나치 구현.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
@@ -32,5 +35,11 @@
     <Text Include="in1-2.txt">
       <Filter>리소스 파일</Filter>
     </Text>
+    <Text Include="..\..\..\Downloads\in2-1.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".gitignore" />
   </ItemGroup>
 </Project>
